@@ -1085,7 +1085,7 @@
 	display:none !important;
 }
 
-/*--[Odznaky u jména]--*/
+/*--[Odznacky]--*/
 
 [data-cid^="4523933-"] .msg .from .un {
     position: relative;
@@ -1107,11 +1107,11 @@
     background-size: 16px auto;
 }
 
-/*--[Obrzaky u odznaku]--*/
+/*--[Gify]--*/
 
-}
-.id- > .badge-box > i.bdg {
-    background-image: url('');
+.id-4523933> .badge-box > i.bdg {
+    background-image: url('https://i.imgur.com/PKkLTxE.gif');
     background-repeat: no-repeat;
     background-position: center;
+    background-size: 30px auto;
 }
