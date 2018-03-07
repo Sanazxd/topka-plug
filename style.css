@@ -1095,7 +1095,7 @@
     background-size: 16px auto;
 }
 
-[data-cid^="-"] .msg .from .un {
+[data-cid^="5006844-"] .msg .from .un {
     position: relative;
     left:-1px;
     padding-left:21px;
