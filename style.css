@@ -1085,6 +1085,8 @@
 	display:none !important;
 }
 
+/*--[Odznaky u jména]--*/
+
 [data-cid^="4523933-"] .msg .from .un {
     position: relative;
     left:-1px;
@@ -1105,3 +1107,11 @@
     background-size: 16px auto;
 }
 
+/*--[Obrzaky u odznaku]--*/
+
+}
+.id- > .badge-box > i.bdg {
+    background-image: url('');
+    background-repeat: no-repeat;
+    background-position: center;
+}
