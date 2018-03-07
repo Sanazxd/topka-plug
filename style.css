@@ -1107,6 +1107,16 @@
     background-size: 16px auto;
 }
 
+[data-cid^="4470907-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left:21px;
+    background-image: url('https://i.imgur.com/kS8s68e.png');
+    background-repeat: no-repeat;
+    background-position: 2px center;
+    background-size: 16px auto;
+}
+
 /*--[Gify]--*/
 
 .id-4523933> .badge-box > i.bdg {
