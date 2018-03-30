@@ -23,7 +23,7 @@
         "rdj":              "#f95",
         "subscriber":       "#e6cc26",
         "silversubscriber": "#dc24d9",
-        "friend":           null,
+        "friend":           "#00fff6",
         "user":             "#00bf4f"
     },
     "images": {
