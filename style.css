@@ -14,7 +14,7 @@
 	background: url(https://i.imgur.com/2AnVcGf.jpg) no-repeat !important;
 }
 #room-settings a:hover, #chat a:hover {
-	color: hsl(280,100%,55%) !important;
+	color: hsl(200,100%,55%) !important;
 	text-shadow: 0 0 5px;
 }
 #search-menu .menu ul  i, #search-menu-icon {
