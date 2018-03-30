@@ -905,10 +905,10 @@
 	border: none !important;
 }
 #chat .cm.mention .name, #chat .cm.mention .timestamp {
-	color: hsl(200, 100%, 17%, 0.8);
+	color: hsl(0, 100%, 50%, 0.8);
 }
 #chat .cm.mention .msg .from .un {
-	color: hsl(200, 100%, 17%, 0.8);
+	color: hsl(0, 100%, 50%, 0.8);
 }
 #chat .cm.mention.is-dj {
 	background: linear-gradient(hsla(20,100%,30%,.8), hsla(20,100%,20%,.8)),
