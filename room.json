@@ -6,7 +6,7 @@
     "rules": {
         "allowAutorespond": true, 
         "allowAutowoot":    true,
-        "allowAutojoin":    true,
+        "allowAutojoin":    false,
         "allowAutograb":    true,
         "allowSmartVote":   true,
         "allowEmotes":      true,
@@ -23,7 +23,7 @@
         "rdj":              "#f95",
         "subscriber":       "#e6cc26",
         "silversubscriber": "#dc24d9",
-        "friend":           "#00fff6",
+        "friend":           null,
         "user":             "#00bf4f"
     },
     "images": {
@@ -47,6 +47,6 @@
         "valien":           "https://i.imgur.com/iNYvJg7.png",
         "playlist":         "https://i.imgur.com/e4OMtMT.png",
         "sanfuck":          "https://i.imgur.com/po4wgV9.png",
-        "topnirvana":          "https://i.imgur.com/zhVX1gT.png"
+        "topnirvana":       "https://i.imgur.com/zhVX1gT.png"
     }
 }
