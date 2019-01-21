@@ -1140,6 +1140,18 @@
 
 }
 
+[data-cid^="3438293-"] .msg .from .un {
+    content: "[Idiot] ";
+    position: relative;
+    left:-1px;
+    padding-left:21px;
+    background-image: url('https://i.imgur.com/GMofSz9.png');
+    background-repeat: no-repeat;
+    background-position: 2px center;
+    background-size: 16px auto;
+
+}
+
 /*--[Gify]--*/
 
 .id-4523933> .badge-box > i.bdg {
